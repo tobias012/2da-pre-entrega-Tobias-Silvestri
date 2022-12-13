@@ -14,5 +14,4 @@ function convertir() {
     else{
         alert("tienes que completar todos los requerimientos")
     }
-    
 }
